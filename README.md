@@ -7,7 +7,7 @@ I am a 3rd Year Student pursuing Bachelors in Computer and Communcations at Mani
 
 ### Languages I dabble in:
 * 🐍 Python
-* ⓒ C/C++
+* ⓒ  C/C++
 * 🦞 Rust
 * 🎰 x86 Assembly
 * #️⃣ Bash Shell 
