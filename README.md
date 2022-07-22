@@ -3,7 +3,9 @@
 
 I am a 3rd Year Student pursuing Bachelors in Computer and Communcations at Manipal Institute of Technology. I am currently interested in networking, binary exploitation, reverse engineering, server protocols and all things low level.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skryptonyte&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skryptonyte&langs_count=5&theme=dark)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Skryptonyte&show_icons=true&theme=dark)
 
 <!--
 **Skryptonyte/Skryptonyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
