@@ -3,14 +3,13 @@
 </h1>
 
 ### About me
-I am a 3rd Year Student pursuing Bachelors in Computer and Communcations at Manipal Institute of Technology. I am currently interested in networking, binary exploitation, reverse engineering, server protocols and all things low level.
+I am a Final Year Student pursuing Bachelors in Computer and Communcations at Manipal Institute of Technology. I am currently interested in networking, binary exploitation, reverse engineering, server protocols and all things low level.
 
 ### Languages I dabble in:
 * 🐍 Python
 * ⓒ  C/C++
 * 🦞 Rust
 * 🎰 x86 Assembly
-* #️⃣ Bash Shell 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skryptonyte&langs_count=5&theme=dark)
 
