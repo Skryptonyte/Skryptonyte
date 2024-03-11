@@ -3,7 +3,7 @@
 </h1>
 
 ### About me
-I am a Final Year Student pursuing Bachelors in Computer and Communcations at Manipal Institute of Technology. I am currently interested in networking, binary exploitation, reverse engineering, server protocols and all things low level.
+I am a Final Year Student pursuing Bachelors in Computer and Communcations at Manipal Institute of Technology. I am currently interested in networking, virtualizationm binary exploitation, reverse engineering, server protocols and basically all things low level.
 
 ### Languages I dabble in:
 * 🐍 Python
